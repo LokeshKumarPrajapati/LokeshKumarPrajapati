@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ4eXR4em4wa21heTAwa3JseHg3ZnYwcmYxcDNhNWs3Mmhxem1oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif)"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
 
 ###
 
